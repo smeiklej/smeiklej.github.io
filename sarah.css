@@ -1,0 +1,129 @@
+@import url('http://fonts.googleapis.com/css?family=Overpass');
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #F4F8FD;
+    font-family:'Overpass-Light','Helvetica','Arial',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    color: #858585;
+    opacity: 1.00;
+    width:85%;
+    max-width:1080px;
+}
+
+img.profpic {
+    height: 215px;
+    padding: 0px 5px 5px 5px;
+    float:right;
+    max-width:270px;
+}
+
+h1{ 
+    font-family: 'Overpass-Thin','HelveticaNeue',sans-serif;
+    text-transform: uppercase;
+    overflow: hidden;
+    width: 100%;
+    text-align:center; 
+    color: #F4F8FD; 
+    background-color: #858585; 
+    position: relative;
+    margin-top: 0.7em;
+    margin-bottom: .4em;
+    font-weight: 400;
+    padding: .2em;
+}
+
+h2{ 
+    border-bottom-style:solid; 
+    color : #65686C;
+    border-color: #65686C;
+    border-width:2px; 
+    padding-left:10px;
+}
+
+h3 {
+    font-size: 36px;
+    padding: 5px;
+    line-height: 36px;
+    margin: 0px;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: 'Overpass-Light','HelveticaNeue',sans-serif;
+    text-transform: uppercase;
+    color: #EA4D6A;
+    float: right;
+}
+
+h4{ 
+    border-bottom-style:dotted; 
+    border-color:#65686C;
+    border-width:2px; 
+    padding-left:10px;
+}
+
+p { 
+    text-align:justify; 
+    padding:0px 25px;}
+
+li {
+    padding:3px;
+}
+
+ul.b {
+    margin: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+li.b {
+    padding: 0;
+}
+
+a {color: #EA4D6A; text-decoration: none;}
+a:visited {color: #444444;}
+a:hover {text-decoration: underline;}
+
+td.a {
+    vertical-align:top;
+    text-align:center;
+    padding-top:0.8em;
+    font-weight:800;
+    width:120px;
+}
+
+td.p {
+    vertical-align:top;
+    padding-left:15px;
+    padding-top:0.8em;
+}
+
+ul.p {
+    list-style:none;
+    padding:0;
+    padding-left:10px;
+    margin:0;
+    line-height:1;
+}
+
+span.highlight {
+        color: rgb(255,0,0);
+    }
+
+img {
+  max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+    padding:2px;
+
+}
+
+
+

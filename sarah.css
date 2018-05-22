@@ -93,9 +93,10 @@ a:hover {text-decoration: underline;}
 td.a {
     vertical-align:top;
     text-align:center;
-    padding-top:0.8em;
+    padding-top:1.1em;
     font-weight:800;
     width:120px;
+    font-size:11px;
 }
 
 td.p {
